@@ -45,3 +45,7 @@ application-local.yml
 # Operating system files
 .DS_Store
 Thumbs.db
+
+
+/generated-sites/
+/.idea/
