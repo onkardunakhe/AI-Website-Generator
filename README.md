@@ -114,6 +114,15 @@ ai-website-builder/
 └── README.md
 ```
 
+
+## ✅ Implemented Features
+
+- [x] Automate GitHub repository creation.
+- [x] Automate website file uploads.
+- [x] Configure GitHub Pages deployment automatically.
+- [x] Return published website URLs to the user.
+
+
 Generated websites are stored separately according to the application's configured workspace path.
 ## 🛣️ Future Enhancements
 
@@ -128,11 +137,6 @@ Generated websites are stored separately according to the application's configur
 - [x] Automate website file uploads.
 - [x] Configure GitHub Pages deployment automatically.
 - [x] Return published website URLs to the user.
-
-
-## 🛣️ Future Enhancements
-- [ ] Add a web-based user interface.
-- [ ] Add deployment status tracking.
 
 ## 🔒 Security
 
