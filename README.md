@@ -131,12 +131,6 @@ Generated websites are stored separately according to the application's configur
 - [ ] Build a polished web-based user interface.
 - [ ] Add automated tests for generation and publishing workflows.
 
-## ✅ Implemented Features
-
-- [x] Automate GitHub repository creation.
-- [x] Automate website file uploads.
-- [x] Configure GitHub Pages deployment automatically.
-- [x] Return published website URLs to the user.
 
 ## 🔒 Security
 
@@ -151,6 +145,7 @@ Generated websites are stored separately according to the application's configur
 
 - GitHub: [github.com/onkardunakhe](https://github.com/onkardunakhe)
 - LinkedIn: [linkedin.com/in/onkar-dunakhe](https://www.linkedin.com/in/onkar-dunakhe/)
+- Portfolio:https://onkardunakhe.github.io/onkar-portfolio
 
 ---
 
