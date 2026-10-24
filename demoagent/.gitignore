@@ -1,0 +1,47 @@
+
+# Maven
+target/
+.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+# IDEs
+.idea/
+*.iws
+*.iml
+*.ipr
+.classpath
+.factorypath
+.project
+.settings/
+.springBeans
+.sts4-cache/
+.apt_generated/
+.vscode/
+
+# Other build tools
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+dist/
+nbbuild/
+nbdist/
+.nb-gradle/
+nbproject/private/
+
+# Generated websites
+/generated-sites/
+
+# Secrets and environment files
+.env
+.env.*
+!.env.example
+
+# Local configuration and logs
+application-local.properties
+application-local.yml
+*.log
+
+# Operating system files
+.DS_Store
+Thumbs.db
